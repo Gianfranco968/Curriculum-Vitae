@@ -86,8 +86,8 @@
         font-size: 1.2rem;
         text-decoration: none;
         list-style: none;
-        padding-right: 10vw;
-        padding-left: 10vw;
+        margin-right: 9.1vw;
+        margin-left: 12vw;
         display: inline-block;
     }
 
@@ -185,8 +185,8 @@
         font-size: 1.2rem;
         padding-top: 10px;
         list-style: none;
-        padding-right: 10vw;
-        padding-left: 10vw;
+        margin-right: 10vw;
+        margin-left: 10vw;
         display: flex;
     }
 
@@ -284,8 +284,8 @@
         font-size: 1.1rem;
         padding-top: 10px;
         list-style: none;
-        padding-right: 8vw;
-        padding-left: 9vw;
+        margin-right: 8vw;
+        margin-left: 10vw;
         display: flex;
     }
 
@@ -381,8 +381,8 @@
         font-size: 3vw;
         padding-top: 10px;
         list-style: none;
-        padding-right: 6vw;
-        padding-left: 6vw;
+        margin-right: 6vw;
+        margin-left: 6vw;
         display: flex;
     }
 
@@ -480,8 +480,8 @@
         text-decoration: none;
         font-size: 3.5vw;
         list-style: none;
-        padding-right: 4vw;
-        padding-left: 4vw;
+        margin-right: 4vw;
+        margin-left: 4vw;
         display: flex;
     }
 
@@ -580,8 +580,8 @@
         text-decoration: none;
         font-size: 4vw;
         list-style: none;
-        padding-right: 2vw;
-        padding-left: 2vw;
+        margin-right: 2.5vw;
+        margin-left: 2.5vw;
         display: flex;
     }
 
@@ -680,8 +680,8 @@
         text-decoration: none;
         font-size: 4vw;
         list-style: none;
-        padding-right: 2vw;
-        padding-left: 2vw;
+        margin-right: 2vw;
+        margin-left: 2vw;
         display: flex;
     }
 
