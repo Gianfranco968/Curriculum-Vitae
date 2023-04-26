@@ -295,7 +295,7 @@
     }
 }
 /*------------PANTALLAS CHICAS-----------*/
-@media screen and (max-width: 767px) and (min-width: 576px){
+@media screen and (max-width: 768px) and (min-width: 576px){
     body {
         padding: 0px;
         margin: 0px;
@@ -304,7 +304,7 @@
     }
 
     .header {
-        max-width: 767px;
+        max-width: 768px;
         max-height: 70px;
         margin-top: 15px;
         border-radius: 15px;
@@ -319,7 +319,7 @@
     }
 
     .estructura {
-        max-width: 767px;
+        max-width: 768px;
         max-height: 70px;
         margin-top: 15px;
         border-radius: 15px;
@@ -345,7 +345,7 @@
     }
 
     .subtitulo {
-        max-width: 767px;
+        max-width: 768px;
         max-height: 20px;
         padding-top: 10px;
         text-align: center;
@@ -491,7 +491,7 @@
     }
 }
 /*------------PANTALLAS TELEFONO VERTICAL-----------*/
-@media screen and (max-width: 479px) and (min-width: 360px){
+@media screen and (max-width: 480px) and (min-width: 359px){
     body {
         padding: 0px;
         margin: 0px;
@@ -572,6 +572,7 @@
     .links {
         display: inline-flex;
         align-items: center;
+        padding-left: 10px;
         padding-left: 4vw;
         list-style: none;
     }

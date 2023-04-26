@@ -302,7 +302,7 @@
 }
 
 /*------------PANTALLAS CHICAS-----------*/
-@media screen and (max-width: 767px) and (min-width: 576px) {
+@media screen and (max-width: 768px) and (min-width: 576px) {
     body {
         padding: 0px;
         margin: 0px;
@@ -503,7 +503,7 @@
 }
 
 /*------------PANTALLAS TELEFONO VERTICAL-----------*/
-@media screen and (max-width: 479px) and (min-width: 360px) {
+@media screen and (max-width: 480px) and (min-width: 359px) {
     body {
         padding: 0px;
         margin: 0px;
@@ -585,10 +585,11 @@
     .links {
         display: inline-flex;
         padding-left: 5vw;
+        padding-left: 10px;
         align-items: center;
         list-style: none;
     }
-
+    
     .links a {
         color: #96634e;
         text-decoration: none;
