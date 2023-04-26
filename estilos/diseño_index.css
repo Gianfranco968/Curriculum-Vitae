@@ -8,7 +8,7 @@
     }
 
     .header {
-        max-width: 1600px;
+        min-width: 1025px;
         max-height: 70px;
         margin-top: 15px;
         border-radius: 15px;
@@ -23,7 +23,7 @@
     }
 
     .estructura {
-        max-width: 1600px;
+        min-width: 1025px;
         max-height: 70px;
         margin-top: 15px;
         border-radius: 15px;
